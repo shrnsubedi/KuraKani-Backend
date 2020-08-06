@@ -1,0 +1,1 @@
+web: gunicorn kurakani_project.wsgi --log-file -
